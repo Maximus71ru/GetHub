@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,7 +235,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a440a8fa90ba8a14",
+  "active": "3c44750e7984077e",
   "lastOpenFiles": [
     "База знаний/Редактирование тела.md",
     "База знаний/Основы Autocad.md",
