@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Сопряжение и кромка, фаска.md",
+                "file": "База знаний/Редактирование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Сопряжение и кромка, фаска"
+              "title": "Редактирование"
             }
           },
           {
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "фаска",
+                "query": "Смести",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,12 +235,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3c44750e7984077e",
+  "active": "a0b98f34608ed881",
   "lastOpenFiles": [
+    "База знаний/Сопряжение и кромка, фаска.md",
     "База знаний/Редактирование тела.md",
     "База знаний/Основы Autocad.md",
     "База знаний/Моделирование.md",
-    "База знаний/Сопряжение и кромка, фаска.md",
     "База знаний/Деформация объекта Деформеры.md",
     "База знаний/Примитивы.md",
     "База знаний/Редактирование.md",
