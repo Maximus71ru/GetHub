@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Система координат",
+      "path": "База знаний/Система координат.md"
+    },
+    {
+      "basename": "Основы Autocad",
+      "path": "База знаний/Основы Autocad.md"
+    },
+    {
+      "basename": "Инструмент Autocad",
+      "path": "Шаблоны/Инструмент Autocad.md"
+    },
+    {
+      "basename": "kurs-3d-autocad-modelirovanieAM",
+      "path": "База знаний/kurs-3d-autocad-modelirovanieAM.md"
+    },
+    {
+      "basename": "Сечение",
+      "path": "База знаний/Сечение.md"
+    },
+    {
       "basename": "Вытягивание",
       "path": "База знаний/Вытягивание.md"
     },
     {
       "basename": "Выдавить",
       "path": "База знаний/Выдавить.md"
-    },
-    {
-      "basename": "Основы Autocad",
-      "path": "База знаний/Основы Autocad.md"
     },
     {
       "basename": "Пользовательские виды",
@@ -61,10 +77,6 @@
       "path": "База знаний/Палитра свойств.md"
     },
     {
-      "basename": "Система координат",
-      "path": "База знаний/Система координат.md"
-    },
-    {
       "basename": "Настройка панели",
       "path": "База знаний/Настройка панели.md"
     },
@@ -93,10 +105,6 @@
       "path": "База знаний/Курсы Autocad.md"
     },
     {
-      "basename": "kurs-3d-autocad-modelirovanieAM",
-      "path": "База знаний/kurs-3d-autocad-modelirovanieAM.md"
-    },
-    {
       "basename": "Группы",
       "path": "База знаний/Группы.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "Блоки",
       "path": "База знаний/Блоки.md"
-    },
-    {
-      "basename": "Инструмент Autocad",
-      "path": "Шаблоны/Инструмент Autocad.md"
     },
     {
       "basename": "Шаблон записи",
@@ -179,10 +183,6 @@
     {
       "basename": "Вращать",
       "path": "База знаний/Вращать.md"
-    },
-    {
-      "basename": "Сечение",
-      "path": "База знаний/Сечение.md"
     },
     {
       "basename": "Редактирование граней",

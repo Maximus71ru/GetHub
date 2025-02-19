@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Вытягивание.md",
+                "file": "База знаний/Основы Autocad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Вытягивание"
+              "title": "Основы Autocad"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Сечение.md",
+                "file": "База знаний/Система координат.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Сечение"
+              "title": "Система координат"
             }
           },
           {
@@ -67,7 +67,8 @@
               "title": "Вытягивание"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "вытяг",
+                "query": "динамическая пск",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -250,11 +251,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a440a8fa90ba8a14",
+  "active": "31e673ea82d55f8c",
   "lastOpenFiles": [
-    "База знаний/Выдавить.md",
-    "База знаний/Вытягивание.md",
     "База знаний/Основы Autocad.md",
+    "Шаблоны/Инструмент Autocad.md",
+    "База знаний/kurs-3d-autocad-modelirovanieAM.md",
+    "База знаний/Система координат.md",
+    "База знаний/Сечение.md",
+    "База знаний/Вытягивание.md",
+    "База знаний/Выдавить.md",
     "База знаний/Пользовательские виды.md",
     "База знаний/Листы.md",
     "База знаний/Видовой экран.md",
@@ -267,7 +272,6 @@
     "База знаний/Шаблон.md",
     "База знаний/Слои.md",
     "База знаний/Палитра свойств.md",
-    "База знаний/Система координат.md",
     "База знаний/Настройка панели.md",
     "База знаний/Редактирование.md",
     "База знаний/Сопряжение и кромка, фаска.md",
@@ -275,9 +279,6 @@
     "База знаний/Моделирование.md",
     "База знаний/Деформация объекта Деформеры.md",
     "База знаний/Примитивы.md",
-    "База знаний/Вопросы.md",
-    "База знаний/Курсы Autocad.md",
-    "База знаний/kurs-3d-autocad-modelirovanieAM.md",
     "Clippings",
     "База знаний/Холст Этапы воронки продаж.canvas",
     "База знаний/Схема контент стратегия.canvas",
